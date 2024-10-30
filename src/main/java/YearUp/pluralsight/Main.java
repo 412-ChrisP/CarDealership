@@ -1,7 +1,13 @@
 package YearUp.pluralsight;
 
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
+public class Main
+{
+    public static void main(String[] args)
+    {
+        UserInterface userInterface = new UserInterface();
+        userInterface.display();
+
+        DealershipFileManager dealershipFileManager = new DealershipFileManager();
+        dealershipFileManager.saveDealership(userInterface.getDealership(), "dealership.csv");
     }
 }
