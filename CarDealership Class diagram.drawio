@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2261" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="jfys6Zm1ReYYGXmyWNRa-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-620" y="220" width="240" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="jfys6Zm1ReYYGXmyWNRa-9" value="UserInterface()&lt;div&gt;&lt;div&gt;-------------------------------------------------------&lt;/div&gt;&lt;div&gt;dealership : Dealership&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-------------------------------------------------------&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;UserInterface()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;display()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;processByPriceRequest()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;processByMakeModelRequest()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;processByYearRequest()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;processGetByColorRequest()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;processGetByMileageRequest()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;processGetByVehicleTypeRequest()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;processGetAllVehicleRequest()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;processAddVehicleRequest()&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;processRemoveVehicleRequest()&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-650" y="250" width="300" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jfys6Zm1ReYYGXmyWNRa-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-620" y="600" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfys6Zm1ReYYGXmyWNRa-11" value="DealershipManagerFile&lt;div&gt;---------------------------------------------------------&lt;/div&gt;&lt;div&gt;getDealership() : Dealership&lt;/div&gt;&lt;div&gt;saveDealership(dealership)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-630" y="540" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jfys6Zm1ReYYGXmyWNRa-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfys6Zm1ReYYGXmyWNRa-12" target="jfys6Zm1ReYYGXmyWNRa-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfys6Zm1ReYYGXmyWNRa-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-300" y="220" width="240" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="jfys6Zm1ReYYGXmyWNRa-14" value="Dealership&lt;div&gt;----------------------------------------------------------&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;name : String&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;address : String&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;phone : String&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;inventory : ArrayList&amp;lt;Vehicle&amp;gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;----------------------------------------------------------&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Dealership(name,address,phone)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;getVehiclesByPrice(min,max)&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;getVehiclesbyMakeModel(Make,model)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;getVehiclesByYear(min,max)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;GetVehiclesByColor(color)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;getVehiclesByMileage(min,max)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;getVehiclesByType(vehicleType)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;getAllVehicles() : List&amp;lt;Vehicles&amp;gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;addVehicle(vehicle)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;removeVehicle(vehicle)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-300" y="280" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jfys6Zm1ReYYGXmyWNRa-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfys6Zm1ReYYGXmyWNRa-8" target="jfys6Zm1ReYYGXmyWNRa-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="380" as="sourcePoint" />
+            <mxPoint x="-240" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfys6Zm1ReYYGXmyWNRa-17" value="Vehicle&lt;div&gt;-----------------------------------------------------------&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;vin : int&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;year : int&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;make : String&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;model : String&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;vehicleType : String&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;color : String&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;odometer : int&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;price : double&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;------------------------------------------------------------&lt;/div&gt;&lt;div&gt;Vehicle(vin,year,make,model,vehicleType,&lt;/div&gt;&lt;div&gt;color,odometer,price)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="260" width="250" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jfys6Zm1ReYYGXmyWNRa-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-790" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfys6Zm1ReYYGXmyWNRa-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfys6Zm1ReYYGXmyWNRa-21" target="jfys6Zm1ReYYGXmyWNRa-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jfys6Zm1ReYYGXmyWNRa-21" value="Program&lt;div&gt;-----------------------------&lt;/div&gt;&lt;div&gt;main()&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-790" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

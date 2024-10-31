@@ -1,17 +1,18 @@
-# Project Title
+# Car Dealership CLI Application
 
 ## Description of the Project
 
-Briefly describe what this Java console application does. Mention its purpose and who the intended users are. Explain the main functionality and what problems it aims to solve.
+This application allows dealership managers and staff to add, remove, 
+and search for vehicles based on various criteria, such as price, make, model, year, color, mileage, and type.
 
-![Class Diagram](path/to/your/class_diagram.png)
+[CarDealership Class diagram.drawio](CarDealership%20Class%20diagram.drawio)
 
 ## User Stories
 
-List the user stories that guided the development of your application. Format these stories as: "As a [type of user], I want [some goal] so that [some reason]."
-
-- As a user, I want to be able to input my data, so that the application can process it accordingly.
-- As a user, I want to receive immediate feedback, so I can understand what to do next.
+- As a user, I want to find vehicles by make/model, to find specific models/makes I desire.
+- As a user, I want to find vehicles by year range, to fit by specifications.
+- As a user, I want to find vehicles by color, to fit my cosmetic preferences.
+- As a user, I want to a list of all vehicles, to expand my options.
 
 ## Setup
 
@@ -35,36 +36,34 @@ Follow these steps to get your application running within IntelliJ IDEA:
 ## Technologies Used
 
 - Java: Mention the version you are using.
-- Any additional libraries or frameworks used in the project.
+- import java.util.ArrayList;
+- import java.util.List;
+- import java.io.*; 
+- import java.util.*; 
+- import java.io.FileWriter; 
+- import java.io.BufferedWriter;
 
 ## Demo
 
-Include screenshots or GIFs that show your application in action. Use tools like [Giphy Capture](https://giphy.com/apps/giphycapture) to record a GIF of your application.
-
-![Application Screenshot](path/to/your/screenshot.png)
+![Screenshot 2024-10-30 202249.png](Screenshot%202024-10-30%20202249.png)
+![Screenshot 2024-10-30 202328.png](Screenshot%202024-10-30%20202328.png)
+![Screenshot 2024-10-30 202423.png](Screenshot%202024-10-30%20202423.png)
+![Screenshot 2024-10-30 202518.png](Screenshot%202024-10-30%20202518.png)
 
 ## Future Work
 
 Outline potential future enhancements or functionalities you might consider adding:
 
-- Additional feature to be developed.
-- Improvement of current functionalities.
-
-## Resources
-
-List resources such as tutorials, articles, or documentation that helped you during the project.
-
-- [Java Programming Tutorial](https://www.example.com)
-- [Effective Java](https://www.example.com)
+- User accounts
+- integration with dealerships
+- improved GUI
+- load/pull information to/from a database
 
 ## Team Members
 
-- **Name 1** - Specific contributions or roles.
-- **Name 2** - Specific contributions or roles.
+- **Chris Pham** - Project designer
 
 ## Thanks
 
-Express gratitude towards those who provided help, guidance, or resources:
-
-- Thank you to [Mentor's Name] for continuous support and guidance.
+- Thank you to [Raymond maroun] for continuous support and guidance.
 - A special thanks to all teammates for their dedication and teamwork.

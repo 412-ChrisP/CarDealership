@@ -83,15 +83,15 @@ public class Dealership
 
     public List<Vehicle> getVehicleByColor(String color)
     {
-        List<Vehicle> vehicelByColorResult = new ArrayList<>();
+        List<Vehicle> vehicleByColorResult = new ArrayList<>();
         for(Vehicle vehicle : inventory)
         {
             if(vehicle.getColor().equals(color))
             {
-                vehicelByColorResult.add(vehicle);
+                vehicleByColorResult.add(vehicle);
             }
         }
-        return vehicelByColorResult;
+        return vehicleByColorResult;
     }
 
     public List<Vehicle> getVehicleByMileage(int min, int max)

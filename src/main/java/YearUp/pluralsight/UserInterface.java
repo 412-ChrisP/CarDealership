@@ -65,8 +65,8 @@ public class UserInterface
                     processGetByPriceRequest();
                     break;
                 case 0:
-                    running = false;
                     System.out.println("Exiting...");
+                    running = false;
                     break;
                 default:
                     System.out.println("Invalid input!");
